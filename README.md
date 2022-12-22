@@ -1,8 +1,14 @@
 # Домашнее задание 4. Построение пайплайна получения генетических вариантов
 
-
-
 ## Часть 1 
+
+1. [Референсный геном e.coli](/part-1/ref_e_coli.fna.gz)
+2. [Результат сиквенирования e.coli](/part-1/e_coli_fastqc.gz)
+3. [Ссылка на прочтения из NCBI](https://www.ncbi.nlm.nih.gov/sra/SRX17981169[accn])
+4. [Отчет из FastQC в формате HTML](/part-1/alignment_fastqc_report.html)
+5. [Bash скрипт с алгоритмом](/part-1/script.sh)
+6. [Скрипт-парсер результатов](/part-1/bashParser.py)
+7. [Результат команды Samtools Flagstat](/part-1/result.txt)
 
 
 ## Часть 2
